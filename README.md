@@ -57,8 +57,7 @@ This dashboard helps identify patterns in cancellations across different custome
 
 | File | Description |
 |--------|--------|
-| Hotel_Booking_Cancellation Dashboard.xlsx | Interactive Excel Dashboard |
-| hotel_bookings.csv | Source Dataset |
+| hotel booking Cancellation dashboard.xlsx | Interactive Excel Dashboard |
 | dashboard-overview.png | Dashboard Preview Screenshot |
 
 🚀 Future Improvements

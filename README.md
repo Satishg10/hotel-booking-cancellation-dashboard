@@ -22,7 +22,7 @@ The dashboard provides:
 
 ✅ Interactive Year Filter using Excel Slicers
 
-⚙️ Tools & Techniques Used
+## ⚙️ Tools & Techniques Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -33,7 +33,7 @@ The dashboard provides:
 - KPI Reporting
 - Data Visualization
 
-📈 Key Insights
+## 📈 Key Insights
 
 📌 Total Bookings: **119,391**
 
@@ -49,27 +49,27 @@ The dashboard provides:
 
 📌 Booking activity peaked during the summer months.
 
-🧠 Business Problem
+## 🧠 Business Problem
 
 Hotel booking cancellations can significantly impact occupancy rates and revenue.
 
 This dashboard helps identify patterns in cancellations across different customer segments and hotel categories, enabling better operational and pricing decisions.
 
-📂 Project Files
+## 📂 Project Files
 
 | File | Description |
 |--------|--------|
 | hotel booking Cancellation dashboard.xlsx | Interactive Excel Dashboard |
 | dashboard-overview.png | Dashboard Preview Screenshot |
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Build a Power BI version
 - Add Power Query automation
 - Include advanced KPI tracking
 - Perform predictive cancellation analysis
 
-👤 Created By
+## 👤 Created By
 
 Satish V Gokhale
 

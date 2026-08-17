@@ -1,7 +1,8 @@
 # 🧭 Hotel Booking Canccellation
+
 An interactive Excel dashboard built to analyze hotel booking patterns, cancellation trends, guest behavior, and hotel performance metrics.
 
-🎯 Project Overview
+## 🎯 Project Overview
 
 This dashboard helps analyze hotel booking data and uncover key business insights related to cancellations, customer segments, room preferences, and booking trends.
 

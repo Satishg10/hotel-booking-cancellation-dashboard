@@ -1,4 +1,4 @@
-# 🧭 Hotel Booking Canccellation
+# 🧭 Hotel Booking Cancellation
 
 An interactive Excel dashboard built to analyze hotel booking patterns, cancellation trends, guest behavior, and hotel performance metrics.
 
